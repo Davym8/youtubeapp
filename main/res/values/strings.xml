@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Youtube</string>
+    <string name="youtube_url">YouTube URL:</string>
+    <string name="string_play_url">Play URL </string>
+    <string name="enter_url">Enter url</string>
+    <string name="youtubelogo">youtubelogo</string>
+    <string name="youtube_player">Youtube Player</string>
+</resources>
